@@ -8,5 +8,4 @@ A passionate Fullstack Web Developer (FE-focused) from Lahore, Pakistan.
 
 ### 📫 How to reach me
 LinkedIn: https://www.linkedin.com/in/syed-asad-abrar/
-
 Email: syedasadabrar@gmail.com
