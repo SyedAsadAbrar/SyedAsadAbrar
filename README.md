@@ -1,6 +1,6 @@
 ## Hello 👋🏻, I am Syed Asad Abrar
 
-A passionate Fullstack Web Developer (FE-focused) from Lahore, Pakistan.
+A passionate Fullstack Software Developer (FE-focused) from Lahore, Pakistan.
 
 🌱 I am currently learning Angular   
 💻 Software Engineer I at Careem (an Uber Inc. company) — *August 2022 to Present*   
