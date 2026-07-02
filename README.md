@@ -2,7 +2,7 @@
 
 A passionate Fullstack Software Developer (FE-focused) from Lahore, Pakistan currently based in Dubai, UAE.
 
-🌱 I am currently learning Websockets   
+🌱 I am currently learning AI Agents   
 💻 Senior Software Engineer at Emirates NBD — *Aug 2025 to Present*  
 💻 Software Engineer II at ai71 — *Aug 2024 to Aug 2025*  
 💻 Founding Software Engineer at The White Boutique — *Nov 2023 to Aug 2024*   
